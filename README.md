@@ -23,7 +23,7 @@ pip install requests
 **To set up the environment and run the test script, follow these steps:**
 
 Clone the Repository:
-git clone https://github.com/your-repo/frontend-backend-integration-test.git
+git clone https://github.com/sr1918/accuknox-answers.git
 cd frontend-backend-integration-test
 
 **Ensure Kubernetes is Running:**
