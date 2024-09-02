@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# THIS IS THE SCRIPT FOR RAISING ALERTS IF CPU THRESHOLD IS HIGHER THAN EXPECTED
+
 # Thresholds
 CPU_THRESHOLD=80   # CPU usage percentage
 MEMORY_THRESHOLD=80  # Memory usage percentage
