@@ -34,7 +34,7 @@ And also make sure to forward the port required for frontend service using below
 
 kubectl port-forward svc/frontend-service 8080:80 -n default
 
-NOTE: If you're using a cloud service provider, please edit the frontend url portion accordingly with the given port in the script.
+**NOTE:** If you're using a cloud service provider, please edit the frontend url portion accordingly with the given port in the script.
 
 
 **Execute the Python script to perform the integration test:**
