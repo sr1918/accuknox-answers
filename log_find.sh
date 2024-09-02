@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# THIS IS THE SCRIPT FOR FINDING 404 AND OTHER KIND OF PATTERNS IN LOGS
+
 LOG_FILE="/var/log/nginx/access.log"  # Change this to the path of your log file
 
 # Check if the log file exists
